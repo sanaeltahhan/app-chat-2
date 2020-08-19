@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --prod --base-href https://sanaeltahhan.github.io/app-chat/",
+    "build": "ng build --prod --base-href https://sanaeltahhan.github.io/app-chat-2/",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
